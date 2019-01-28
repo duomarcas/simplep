@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "simple-pick",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -54,13 +54,15 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 15,
-    "versionPublish": "4.9.1"
+    "versionPublish": "4.9.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-sp-64x64.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "simple-pick",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
