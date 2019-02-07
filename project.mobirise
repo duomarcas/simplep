@@ -758,7 +758,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "@simple.pick",
+          "title": "<b>@simple.pick</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-5 btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ver más</a>",
           "display2": "display-7",
           "display4": "display-5",
