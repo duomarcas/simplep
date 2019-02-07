@@ -53,7 +53,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "4.9.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-sp-64x64-1.png",
     "noImageResize": ""
@@ -735,6 +735,44 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "token": "8228029836.727bfe1.c6a00fdc9b9040bfb35a44f193030dac",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "3",
+            "rows": "1",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#4f4943",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "@simple.pick",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-5 btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ver más</a>",
+          "display2": "display-7",
+          "display4": "display-5",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-3",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
